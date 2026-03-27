@@ -21,7 +21,7 @@ A simple web-based platform where students can submit emergency financial assist
 - CSS
 - JavaScript
 
-## MVP Prototype (Hackathon Version)
+## MVP Prototype 
 This project was initially created as a no-code prototype during a college hackathon.
 
 🔗 MVP Link: https://sites.google.com/view/campus-emergency-assistance-pl
